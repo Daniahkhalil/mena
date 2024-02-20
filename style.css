@@ -1,0 +1,48 @@
+.login-container{
+    width: 30%;
+    height: 30%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid purple;
+     border-radius:10px ;
+    background-color: rgba(200, 200, 200, 0.7);}
+.dciImage{
+    width: 70%;
+    height: 70%;
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    
+   
+}
+.dciImageContainer{
+    width: 5%;
+    height: 5%;
+    background-color: white;
+    border: 2px solid purple;
+    border-radius: 50%;
+    position: absolute;
+
+}
+
+.gap
+{
+margin: 5px;
+}
+input{
+    height: 20px;
+    color: black;
+    border-radius: 5px;
+}
+button{
+    width: 144px;
+    position: relative;
+    left: 11px;
+    color: white;
+    align-items: center;
+    background-color: rgba(90, 17, 90, 0.5);
+    border-radius:10px ;
+}
+
